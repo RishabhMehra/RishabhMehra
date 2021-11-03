@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :briefcase: I am a Senior Software Engineer, having 2+ years of work Experience 
+- :briefcase: Senior Software Engineer, LTI 
 - :zap: I am very passionate towards solving problems and working on exciting use cases.
 - :comet: Data Science Enthusiast
 <!-- - :house_with_garden: Navi Mumbai
