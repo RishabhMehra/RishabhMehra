@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- :comet: Data Science Enthusiast
 - :briefcase: Senior Software Engineer, LTI 
 - :zap: I am very passionate towards solving problems and working on exciting use cases.
-- :comet: Data Science Enthusiast
+
 <!-- - :house_with_garden: Navi Mumbai
 -->
 <h3 align="left">Languages and Tools:</h3>
