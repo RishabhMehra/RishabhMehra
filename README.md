@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hi , I'm Rishabh Mehra ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 <!--
 **RishabhMehra/RishabhMehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 - :comet: Data Science Enthusiast
 - :briefcase: Senior Software Engineer, LTI 
+- 📧 Reach me at : rishabhmehra5@gmail.com
 - :zap: I am very passionate towards solving problems and working on exciting use cases.
+- :pushpin: Interested In : Computer Vision , Data Science, NLP 
 
 <!-- - :house_with_garden: Navi Mumbai
 -->
