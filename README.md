@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :comet: Data Science Enthusiast
-- :briefcase: Senior Software Engineer, LTI 
+- :comet: Data Science
+- :briefcase: Data Scientist, i3Systems.ai 
 - 📧 Reach me at : rishabhmehra5@gmail.com
 - :zap: I am very passionate towards solving problems and working on exciting use cases.
 - :pushpin: Interested In : Computer Vision , Data Science, NLP 
