@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - :comet: Data Science
 - :briefcase: Data Scientist, ContractpodAi
 - 📧 Reach me at : rishabhmehra5@gmail.com
-- :zap: I am very passionate towards solving problems and working on exciting use cases.
+- :zap: I am very passionate about solving problems and working on exciting use cases.
 - :pushpin: Interested In : Computer Vision , Data Science, NLP 
 
 <!-- - :house_with_garden: Navi Mumbai
